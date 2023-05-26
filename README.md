@@ -1,1 +1,1 @@
-# TOP-git-practice
+# The Odin Project Git practice
